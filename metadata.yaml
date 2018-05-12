@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Concha_Espina
     - http://es.wikipedia.org/wiki/Concha_Espina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42456#El-Jay-nDrama-en-tres-actos
 gutenberg_issued: '2013-04-01'
 gutenberg_type: Text
 identifiers:
